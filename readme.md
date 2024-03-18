@@ -14,7 +14,7 @@ Before running the application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/titanic-survival-prediction.git
+git clone https://github.com/your-username/titnanic-prediction.git
 ```
 
 2. Navigate to the directory containing the repository:
