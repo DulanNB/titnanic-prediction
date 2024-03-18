@@ -34,7 +34,7 @@ This will start the Flask server. You should see output indicating that the serv
 4. Open a web browser and go to the following URL:
 
 ```
-http://127.0.0.1:5000/
+http://127.0.0.1:5000/ or Your Local url
 ```
 
 This will take you to the web interface of the application.
